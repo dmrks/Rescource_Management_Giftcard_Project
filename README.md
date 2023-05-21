@@ -11,10 +11,8 @@ Click through the files on your right and see what’s in them! If you get stuck
 
 Let’s start printing!
 
-Tasks
-13/13 Complete
-Mark the tasks as complete by checking them off
 Setting Up Custom Greeting Cards
+
 1.
 Aisha, the owner of Aisha’s Greetings, wants to create a program that will automatically generate pre-filled orders, using her custom greeting messages. Use your knowledge of context managers to accomplish this goal!
 
